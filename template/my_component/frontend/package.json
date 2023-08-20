@@ -1,0 +1,11 @@
+{
+  "name": "product",
+  "version": "1.0.0",
+  "description": "product recommendation project for hackathon",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "author": "jack",
+  "license": "ISC"
+}
