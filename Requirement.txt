@@ -1,0 +1,13 @@
+streamlit
+os
+PIL
+numpy
+pickle
+tensorflow
+image
+GlobalMaxPooling2D
+ResNet50
+preprocess_input
+NearestNeighbors
+norm
+streamlit.components.v1
