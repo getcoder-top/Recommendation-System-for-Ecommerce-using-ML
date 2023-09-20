@@ -1,4 +1,5 @@
 streamlit
+Scikit-Learn
 os
 PIL
 numpy
