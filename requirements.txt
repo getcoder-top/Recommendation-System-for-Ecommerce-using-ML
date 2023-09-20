@@ -1,5 +1,3 @@
 streamlit
 Scikit-Learn
-numpy
 tensorflow
-Resnet
