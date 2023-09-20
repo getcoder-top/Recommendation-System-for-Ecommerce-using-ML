@@ -1,11 +1,8 @@
 streamlit
 Scikit-Learn
-os
-PIL
 numpy
 pickle
 tensorflow
-image
 GlobalMaxPooling2D
 ResNet50
 preprocess_input
