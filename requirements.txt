@@ -1,11 +1,5 @@
 streamlit
 Scikit-Learn
 numpy
-pickle
 tensorflow
-GlobalMaxPooling2D
-ResNet50
-preprocess_input
-NearestNeighbors
-norm
-streamlit.components.v1
+
